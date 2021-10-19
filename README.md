@@ -29,46 +29,15 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)<img width="362" alt="mobile-view" src="https://user-images.githubusercontent.com/82845333/137908400-3892f933-7cc8-4995-adab-0b8da3b6bbdb.png">
+<img width="362" alt="mobile-view" src="https://user-images.githubusercontent.com/82845333/137908400-3892f933-7cc8-4995-adab-0b8da3b6bbdb.png">
 <img width="931" alt="stage-1" src="https://user-images.githubusercontent.com/82845333/137908410-1e329021-3f77-417d-b637-5d5c16e6c57b.png">
 <img width="925" alt="stage-2" src="https://user-images.githubusercontent.com/82845333/137908411-8b70bbdc-aa22-4568-af52-16f8fbc34a69.png">
 <img width="924" alt="stage-3" src="https://user-images.githubusercontent.com/82845333/137908412-05f017e8-b47b-4761-9add-43a5f99ce8f2.png">
+
+### Following features are supported
+User can add the tasks which are initially in backlog/ todos list
+Based on the progress it can be moved to in progress.
+If due to some other priorities if this task needs to be delayed, then it can be moved to backlog again from progress
+Once done it can be moved to completed stage, where we have an option on deleting the completed task or moving back to previous stages.
+User interface is responsive and can be viewed in both small(mobile)/ large screens.
 
