@@ -35,9 +35,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 <img width="924" alt="stage-3" src="https://user-images.githubusercontent.com/82845333/137908412-05f017e8-b47b-4761-9add-43a5f99ce8f2.png">
 
 ### Following features are supported
-User can add the tasks which are initially in backlog/ todos list
-Based on the progress it can be moved to in progress.
-If due to some other priorities if this task needs to be delayed, then it can be moved to backlog again from progress
-Once done it can be moved to completed stage, where we have an option on deleting the completed task or moving back to previous stages.
-User interface is responsive and can be viewed in both small(mobile)/ large screens.
+   1. User can add the tasks which are initially in backlog/ todos list
+
+   2. Based on the progress it can be moved to in progress.
+
+   3. If due to some other priorities if this task needs to be delayed, then it can be moved to backlog again from progress.
+
+   4. Once done it can be moved to completed stage, where we have an option on deleting the completed task or moving back to previous stages.
+
+   5. User interface is responsive and can be viewed in both small(mobile)/ large screens.
 
